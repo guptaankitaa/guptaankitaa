@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Me**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently pursuing **B.Tech in Computer Science **
 
 - 👯 I’m looking to collaborate on **open source contribution in dsa**
 
