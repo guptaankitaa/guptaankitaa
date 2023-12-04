@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source contribution in dsa**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ankita-k-codes](https://github.com/Ankita-k-codes)
+- 👨‍💻 All of my projects are available at [https://github.com/guptaankitaa](https://github.com/guptaankitaa)
 
 - 📝 I regularly practice dSA on [Leetcode](Leetcode)
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankita-gupta-b854b422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankita-gupta-b854b422b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/guptaankita04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="guptaankita04" height="30" width="40" /></a>
-<a href="https://instagram.com/ankiita.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankiita.04" height="30" width="40" /></a>
+<a href="https://instagram.com/ankiita.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankiita.4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
