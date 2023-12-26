@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankita Gupta</h1>
-<h3 align="center">A passionate coder and a frontend developer</h3>
+<h3 align="center">A passionate coder and a frontend developer, actively looking for Internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaankitaa&label=Profile%20views&color=0e75b6&style=flat" alt="guptaankitaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaankitaa" alt="guptaankitaa" /></a> </p>
 
-- 🔭 I’m currently working on **Me**
+- 🔭 I’m currently working on **ML Project**
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science**
 
