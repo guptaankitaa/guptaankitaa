@@ -11,11 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source contribution in dsa**
 
-- 👨‍💻 All of my projects are available at [https://github.com/guptaankitaa](https://github.com/guptaankitaa)
-
 - 📝 I regularly practice dSA on [Leetcode](Leetcode)
-
-- 💬 Ask me about **C++, DSA, HTML, CSS**
 
 - 📫 How to reach me **guptaankita0004@gmail.com**
 
