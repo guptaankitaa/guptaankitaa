@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science**
 
-- 👯 I’m looking to collaborate on **open source contribution in dsa**
-
 - 📝 I regularly practice dSA on [Leetcode](Leetcode)
 
 - 📫 How to reach me **guptaankita0004@gmail.com**
