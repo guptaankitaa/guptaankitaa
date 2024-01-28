@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science**
 
-- 📝 I regularly practice dSA on [Leetcode](Leetcode)
+- 📝 I regularly practice DSA on [Leetcode](Leetcode)
 
 - 📫 How to reach me **guptaankita0004@gmail.com**
 
