@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Gupta</h1>
-<h3 align="center">4th Year Student , actively looking for an Internship.</h3>
+<h3 align="center">Final Year Student , actively looking for an Internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaankitaa&label=Profile%20views&color=0e75b6&style=flat" alt="guptaankitaa" /> </p>
 
