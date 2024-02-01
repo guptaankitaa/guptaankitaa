@@ -21,11 +21,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guptaankitaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=guptaankitaa&icon=9&color=1)](https://visitcount.itsvg.in)
 
