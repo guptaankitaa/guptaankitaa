@@ -2,6 +2,7 @@
 <h3 align="center">Final Year Student , actively looking for an Internship.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=guptaankitaa&icon=5&color=12)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guptaankitaa&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 # 💫 About Me:
