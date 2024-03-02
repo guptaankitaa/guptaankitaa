@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on ML Project<br>
+🔭 I’m currently working on ML Project, DSA<br>
 📝 All my Projects are available in guptaankitaa<br>
 🌱 I’m currently pursuing B.Tech in Computer Science<br>
 📝 I regularly practice DSA on Leetcode<br>
