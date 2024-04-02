@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on ML Project, DSA<br>
+🔭 I’m currently working on MERN Project, DSA<br>
 📝 Ask me about DSA, C++, Web Dev and ML<br>
 🌱 I’m currently pursuing B.Tech in Computer Science<br>
 📝 I regularly practice DSA on Leetcode<br>
