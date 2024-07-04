@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankita Gupta</h1> 
+<h1 align="center">Hi 👋, I'm Ankita Gupta </h1> 
  
 <h3 align="center">Graduate student actively searching for an Internship.</h3>
 
